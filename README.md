@@ -38,3 +38,7 @@ To destry the Pulsar cluster:
 ```bash
 make down
 ```
+
+## References
+
+* [Apache Pulsar 4.0.x documentation](https://pulsar.apache.org/docs/4.0.x/)
